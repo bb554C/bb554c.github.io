@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "bb554c.github.io",
   "resources": {
-    "hash": "sha256-n/sorDpJ69LqQ8703fWjPlx/CsCx4VEGpQOqc3t7Cqg=",
+    "hash": "sha256-4fFwWGsgTTNXS32F0Xzqo/O5IQ3wOubnqCZ37R2SRME=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "bb554c.github.io.wasm": "sha256-xi0tddTUEZ+K/uak8/kUsfk1At00Q0VsFvioCryf8/M=",
+      "bb554c.github.io.wasm": "sha256-brWMxpFrd4v90P9fXh82zaCsHFQbbZwwIWuOKOrBwCU=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-1OlNRxTOoTUV+5mAyAxWlXy28A7Q4CVvAo9/yeJDJZY=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-aSkGMtXQ+nX7g4Qyy8R/1Sw9VWGX6gI9MjUponKtiz4=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-YOTmgCi9w/cS25afM5UoVJ07S8qiQ6SREvyxCkFnL5o=",
